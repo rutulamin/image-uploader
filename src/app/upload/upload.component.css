@@ -1,0 +1,15 @@
+input[type="file"]{
+    display: none;
+}
+label{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    font-size: 17px;
+    padding: 12px 7px;
+    border: 1px solid black;
+}
+label :hover{
+    background-color: black;
+    color: white;
+}

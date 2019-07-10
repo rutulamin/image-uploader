@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class UploadComponent implements OnInit {
 
-  imgSrc: string = '';
+  // imgSrc: string = '';
   constructor() { }
 
   ngOnInit() {
